@@ -1,0 +1,11 @@
+I:\c plus plis\RaspsianieGovna\RaspsianieGovna\bin\Debug\RaspsianieGovna.exe.config
+I:\c plus plis\RaspsianieGovna\RaspsianieGovna\bin\Debug\RaspsianieGovna.exe
+I:\c plus plis\RaspsianieGovna\RaspsianieGovna\bin\Debug\RaspsianieGovna.pdb
+I:\c plus plis\RaspsianieGovna\RaspsianieGovna\obj\Debug\RaspsianieGovna.csproj.AssemblyReference.cache
+I:\c plus plis\RaspsianieGovna\RaspsianieGovna\obj\Debug\RaspsianieGovna.csproj.SuggestedBindingRedirects.cache
+I:\c plus plis\RaspsianieGovna\RaspsianieGovna\obj\Debug\RaspsianieGovna.Form1.resources
+I:\c plus plis\RaspsianieGovna\RaspsianieGovna\obj\Debug\RaspsianieGovna.Properties.Resources.resources
+I:\c plus plis\RaspsianieGovna\RaspsianieGovna\obj\Debug\RaspsianieGovna.csproj.GenerateResource.cache
+I:\c plus plis\RaspsianieGovna\RaspsianieGovna\obj\Debug\RaspsianieGovna.csproj.CoreCompileInputs.cache
+I:\c plus plis\RaspsianieGovna\RaspsianieGovna\obj\Debug\RaspsianieGovna.exe
+I:\c plus plis\RaspsianieGovna\RaspsianieGovna\obj\Debug\RaspsianieGovna.pdb
